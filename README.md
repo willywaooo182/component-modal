@@ -18,4 +18,11 @@ Definir un método toggleModal que permita cambiar el valor de la propiedad show
 Escuchar el evento close del modal y ejecutar el metodo toggleModal cuando este se emite.
 Establecer el contenido de title del modal usando una propiedad y el contenido del bodyusando slots.
 
-#Solucion Aplicada
+# Solucion Aplicada
+Se crea todo tal cual lo solicitado, y se le agrega un array de obejos que tienen temas de Vue de una pagina web que me gustaron sus imagenes.
+
+El objeto (temas) tiene los campos: titulo, mensaje o explicación, imagen sobre el tema y el link fuente del tema.
+
+Se crea un array de obejetos (temas) interno en el padre, y usando una funcion o metodo se selecciona un tema aleatorio para que sea mstrado en el modal.
+
+

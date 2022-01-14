@@ -26,3 +26,4 @@ El objeto (temas) tiene los campos: titulo, mensaje o explicación, imagen sobre
 Se crea un array de obejetos (temas) interno en el padre, y usando una funcion o metodo se selecciona un tema aleatorio para que sea mstrado en el modal.
 
 
+![vistas-vue-modal](https://user-images.githubusercontent.com/44087262/149447425-94f3a65d-d1cb-4ee9-ac78-712bec14ec45.jpg)
